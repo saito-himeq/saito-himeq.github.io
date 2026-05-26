@@ -23,7 +23,6 @@ description: >-
   色々書きます
 baseurl: ""
 url: "https://saito-himeq.github.io"
-twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
